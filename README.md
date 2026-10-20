@@ -1,4 +1,4 @@
-<img width="706" height="318" alt="image" src="https://github.com/user-attachments/assets/191562a3-017d-4498-8e5b-24e40014b4bc" /># Telco Customer Churn Analysis
+#Telco Customer Churn Analysis
 
 **Tools:** PostgreSQL, SQL
 
