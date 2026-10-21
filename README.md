@@ -19,3 +19,6 @@ Which customers are most likely to leave, and why?
 
 ## Recommendation
 Focus retention offers on new customers, and encourage a move to longer contracts.
+
+Here is a snapshot of the interactive Telco Churn Dashboard comparing churn rate across contract types, tenure buckets, and payment methods:
+<img width="1558" height="896" alt="image" src="https://github.com/user-attachments/assets/4bda5ea0-a231-41e8-99f8-5b347e413615" />
